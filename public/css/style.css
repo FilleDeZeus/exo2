@@ -1,11 +1,6 @@
 /* ----------Ensemble---------- */
 
-* {
-    margin: 0;
-}
-
 body{
-    box-shadow: 0px 0px 20px gray;
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -107,7 +102,7 @@ header nav ul li a span{
 
 .eclosion>div:last-of-type{
     width: 100%;
-    background-color: gainsboro;
+    background-color: #d3cfbf;
     padding: 50px 0;
 }
 
@@ -173,7 +168,7 @@ header nav ul li a span{
 
 .evolution>div:last-of-type{
     width: 100%;
-    background-color: gainsboro;
+    background-color: #d3cfbf;
     padding: 50px 0;
 }
 
@@ -239,7 +234,7 @@ header nav ul li a span{
 
 .envol>div:last-of-type{
     width: 100%;
-    background-color: gainsboro;
+    background-color: #d3cfbf;
     padding: 50px 0;
 }
 
