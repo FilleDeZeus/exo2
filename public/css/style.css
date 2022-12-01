@@ -67,6 +67,74 @@ header nav ul li a span{
     font-size: 40px;
 }
 
+/* -----------Section éclosion---------------- */
+
+.eclosion{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.eclosion h2{
+    background-color: darkslategray;
+    color: white;
+    margin: 50px auto;
+    padding:  10px 40px;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.eclosion>div:first-of-type{
+    display: flex;
+    margin-bottom: 80px;
+    padding: 0 70px;
+}
+
+.eclosion>div:first-of-type>div:first-of-type{
+    flex: 4;
+    display: flex;
+    justify-content: start;
+}
+.eclosion>div:first-of-type>div:last-of-type{
+    flex: 6;
+}
+
+.eclosion>div:first-of-type>div:last-of-type>p{
+    font-size: 16px;
+    margin-bottom: 15px;
+    padding-right: 25%;
+}
+
+.eclosion>div:last-of-type{
+    width: 100%;
+    background-color: gainsboro;
+    padding: 50px 0;
+}
+
+.eclosion>div:last-of-type ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.eclosion>div:last-of-type ul li{
+    flex: 25%;
+}
+
+.eclosion>div:last-of-type ul li a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.eclosion>div:last-of-type ul li a img{
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+
 /* -----------Section évolution---------------- */
 
 .evolution{
