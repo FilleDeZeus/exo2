@@ -38,7 +38,7 @@ header nav ul li a span{
 /* ----------Banner------------- */
 
 .banniere{
-    background-color: darkslategray;
+    background-color: #1c323f;
     color: white;
     padding: 50px 40px;
     display: flex;
@@ -71,7 +71,7 @@ header nav ul li a span{
 }
 
 .eclosion h2{
-    background-color: darkslategray;
+    background-color: #1c323f;
     color: white;
     margin: 50px auto;
     padding:  10px 40px;
@@ -137,7 +137,7 @@ header nav ul li a span{
 }
 
 .evolution h2{
-    background-color: darkslategray;
+    background-color: #1c323f;
     color: white;
     margin: 50px auto;
     padding:  10px 40px;
@@ -203,7 +203,7 @@ header nav ul li a span{
 }
 
 .envol h2{
-    background-color: darkslategray;
+    background-color: #1c323f;
     color: white;
     margin: 50px auto;
     padding:  10px 40px;
